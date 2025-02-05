@@ -7,8 +7,8 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently final year CSE student.
-- 🌱 I’m currently learning about Data Science.
+- 🔭 I’m an Associate Software Engineer.
+- 🌱 I’m a Backend Developer.
 - 📫 How to reach me: Check social links below.
 - ⚡ Interseted in Competative Programming.
 
